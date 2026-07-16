@@ -1,14 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=VictorHMS-science&color=006bed)
 
-# Olá, pessoal. Meu nome é Victor Hugo Martins 👋
-
 ## Sobre mim
 
-- 🎓 Formado em Física pela Universidade Federal do Rio de Janeiro (UFRJ).
+- Pesquisador em Química, Materiais e Saúde na Firjan.
 - Mestrando em Geofísica no Observatório Nacional.
-
-Ao longo da minha carreira, participei de projetos desafiadores, incluindo participação na Operação Antártica XLI na Estação Antártica Comandante Ferraz e o desenvolvimento de sistemas de medição atmosférica.
-
+- Bacharel em Física pela Universidade Federal do Rio de Janeiro (UFRJ).
 
 ## Skills
 
